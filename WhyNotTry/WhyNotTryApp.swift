@@ -1,9 +1,3 @@
-//
-//  WhyNotTryApp.swift
-//  WhyNotTry
-//
-//  Created by Maciej Szostak on 21/06/2025.
-//
 
 import SwiftUI
 
